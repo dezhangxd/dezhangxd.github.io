@@ -17,6 +17,9 @@ main:
 
   - title: "Talks"
     url: "/#-talks"
+  
+  # - title: "中文版"
+  #   url: "chinese.md"
 
   # - title: "Internships"
   #   url: "/#-internships"
