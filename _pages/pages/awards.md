@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2024.07*, <span style="color:red">Graduate Student Representative</span>, University of Chinese Academy of Sciences (1/13691)
 - *2024.06*, Outstanding Graduates in Beijing
 - *2024.06*, The President Award of the Chinese Academy of Sciences - <span style="color:red">Special Award</span> (58 students in CAS) [🔍](https://onestop.ucas.ac.cn/home/infob/9c313c74-c422-42a9-bb79-b9c3cfe45a01/1)
 - *2023.12*, CCF Chinasoft, Outstanding Doctoral Representative (14 students in China)
