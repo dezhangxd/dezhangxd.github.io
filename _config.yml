@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xindi Zhang's Homepage"
-description              : "Post-doctor in ISCAS. Focusing on SAT and its applications."
+title                    : "Xindi Zhang(张昕荻)'s Homepage"
+description              : "Special Research Assistant in ISCAS. Focusing on SAT and its applications."
 repository               : "dezhangxd/dezhangxd.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xindi Zhang"
+  name             : "Xindi Zhang (张昕荻)"
   avatar           : "images/blue.png"
   bio              : "Institute of Software Chinese Acedemy of Science (ISCAS)"
   location         : "Beijing, China"

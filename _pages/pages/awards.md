@@ -4,7 +4,7 @@
 - *2024.06*, The President Award of the Chinese Academy of Sciences - <span style="color:red">Special Award</span> (58 students in CAS) [🔍](https://onestop.ucas.ac.cn/home/infob/9c313c74-c422-42a9-bb79-b9c3cfe45a01/1)
 - *2023.12*, CCF Chinasoft, Outstanding Doctoral Representative (14 students in China)
 - *2023.11*, "Pollyanna Chu" Scholarship for Distinguished Doctorates (Top 1%)
-- *2023.11*, <span style="color:red">"FenJin" Scholarship</span> -- Integrated Circuit Personnel Training Project (95 students in China, EDA no more than 10%)[🔍](images/fenjin.jpge)
+- *2023.11*, <span style="color:red">"FenJin" Scholarship</span> -- Integrated Circuit Personnel Training Project (95 students in China, EDA no more than 10%)[🔍](images/fenjin.jpeg)
 - *2022.11*, National Scholarship for Doctoral Students (Top 1%)
 - *2020.11*, National Scholarship for Graduate Students (Top 1%)
 
