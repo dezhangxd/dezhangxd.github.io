@@ -12,6 +12,8 @@
 ## Competitions Awards
 
 - The International SAT Competition & Race [🏠Homepage](https://satcompetition.github.io/)
+    * 2024:
+    [PRS](https://github.com/shaowei-cai-group/PRS-sc24) won [🥈Cloud Track](https://satcompetition.github.io/2024/downloads/satcomp24slides.pdf)
     * 2023: 
     [PRS](https://github.com/shaowei-cai-group/PRS-sc23) won [🥇🥇🥇Main-Parallel(SAT/UNSAT/ALL) Track](https://satcompetition.github.io/2023/downloads/satcomp23slides.pdf) and [🥈Cloud Track](https://satcompetition.github.io/2023/downloads/satcomp23slides.pdf)
     * 2022: 

@@ -1,5 +1,11 @@
 # 💬 Talks
 
+- *2024.08*,
+"Introduction of SAT and its Applications in EDA",
+Institute of Computing Technology, Chinese Academy of Sciences,
+[🎞️Slides](https://drive.google.com/file/d/1tc0NuzxFKerDiG4Gwvwpt3ioOzxbb8Yl/view?usp=drive_link)
+
+
 - *2024.06*,
 "坐稳“冷”板凳，在不变中拥抱变化",
 Institute of Computing Technology, Chinese Academy of Sciences,
