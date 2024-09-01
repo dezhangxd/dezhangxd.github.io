@@ -30,6 +30,22 @@ Shaowei Cai, **Xindi Zhang**  2021.07, pp 64–81
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+
+
+- `COR [J]`
+[A fast local search algorithm for minimum sum coloring problem on massive graphs](https://www.sciencedirect.com/science/article/abs/pii/S0305054824002661)
+Yan Li, Mengyu Zhao, **Xindi Zhang**, Yiyuan Wang
+2024.09
+(Vol. 172 (2024), 106794)
+
+
+- `Integration [J]`
+[A fast test compaction method using dedicated Pure MaxSAT solver embedded in DFT flow](https://www.sciencedirect.com/science/article/abs/pii/S0167926024001299)
+Zhiteng Chao, Xindi Zhang, Junying Huang, Zizhen Liu, Yixuan Zhao, Jing Ye, Shaowei Cai, Huawei Li, Xiaowei Li 
+2024.08
+(Vol. 100 (2024): 102265.)
+
+
 - `ISCAS` 
 [Hybrid Algorithms for SAT and SMT and Their Applications](https://drive.google.com/file/d/19msSCIx4wbdhs9ZjlN9l0SwS8bN78hLB/view?usp=sharing)
 **Xindi Zhang**,
