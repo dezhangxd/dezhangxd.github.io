@@ -41,7 +41,7 @@ Yan Li, Mengyu Zhao, **Xindi Zhang**, Yiyuan Wang
 
 - `Integration [J]`
 [A fast test compaction method using dedicated Pure MaxSAT solver embedded in DFT flow](https://www.sciencedirect.com/science/article/abs/pii/S0167926024001299)
-Zhiteng Chao, Xindi Zhang, Junying Huang, Zizhen Liu, Yixuan Zhao, Jing Ye, Shaowei Cai, Huawei Li, Xiaowei Li 
+Zhiteng Chao, **Xindi Zhang**, Junying Huang, Zizhen Liu, Yixuan Zhao, Jing Ye, Shaowei Cai, Huawei Li, Xiaowei Li 
 2024.08
 (Vol. 100 (2024): 102265.)
 
