@@ -27,29 +27,25 @@ Shaowei Cai, **Xindi Zhang**  2021.07, pp 64–81
 
 
 - `DAC 2025`
-PastATPG: A Hybrid ATPG Framework for Better Test Compaction with Partial Assignment SAT.
-
+PastATPG: A Hybrid ATPG Framework for Better Test Compaction with Partial Assignment SAT.\
 Zhiteng Chao, **Xindi zhang**, Xinyu Zhang, Jianan Mu, Zizhen Liu, Shaowei Cai, Jing Ye, Xiaowei Li and Huawei Li.
 
 
 
 - `DAC 2025`
-Leveraging Critical Proof Obligations for Efficient IC3 Verification.
-
+Leveraging Critical Proof Obligations for Efficient IC3 Verification.\
 Lingfeng Zhu, **Xindi Zhang**, Yongjian Li and Shaowei Cai
 
 
 
 - `DAC 2025`
-X-SAT: An Efficient Circuit-Based SAT Solver
-
+X-SAT: An Efficient Circuit-Based SAT Solver.\
 Yuhang Qian, Zhihan Chen, **Xindi Zhang** and Shaowei Cai
 
 
 
 - `DAC 2025` 
-Parallel Dynamic Partitioning for Datapath Combinational Equivalence Checking
-
+Parallel Dynamic Partitioning for Datapath Combinational Equivalence Checking.\
 Shuai Zhou, Weikang Zhang, **Xindi Zhang**, Zite Jiang, Haihang You and Shaowei Cai
 
 
@@ -78,11 +74,9 @@ Zhiteng Chao, **Xindi Zhang**, Junying Huang, Zizhen Liu, Yixuan Zhao, Jing Ye, 
 [🎞️Slides](https://drive.google.com/file/d/1Rrxm9ceeS3v-gNCXbOc3ylLzGfqTs_Xy/view?usp=drive_link)
 
 - `ICSE 2024` 
-[Deep Combination of CDCL(T) and Local Search for Satisfiability Modulo Non-Linear Integer Arithmetic Theory](https://dl.acm.org/doi/abs/10.1145/3597503.3639105).
-
+[Deep Combination of CDCL(T) and Local Search for Satisfiability Modulo Non-Linear Integer Arithmetic Theory](https://dl.acm.org/doi/abs/10.1145/3597503.3639105).\
 **Xindi Zhang**, Bohan Li, Shaowei Cai. 
-2024.03 (Article No.: 125, Pages 1–13)
-
+2024.03 (Article No.: 125, Pages 1–13)\
 [💾hybridSMT](https://github.com/hybridSMT/hybridSMT)
 [💾z3++]( https://github.com/shaowei-cai-group/z3pp)
 [🎞️Slides](slides/ICSE24-GA.pdf)
