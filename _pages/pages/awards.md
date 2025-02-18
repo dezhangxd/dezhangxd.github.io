@@ -36,6 +36,7 @@
     * SAT: [ParKissat-RS](https://github.com/shaowei-cai-group/ParKissat-RS) won [🏆Parallel Track](imagaes/floc-sat.png)
     * SMT: [z3++](https://github.com/shaowei-cai-group/z3pp) won [🏆MV-Biggest Lead & 🏆MV-Largest Contribution](images/smt22.png)
 
+- 2024, Integrated Circuit EDA Elite Challenge, [🥈Second award](EDA240335.pdf), [🏢 Enterprise Special Award (S2C)](https://mp.weixin.qq.com/s/wUsnpof64iZvUnvfDSRUow)
 
 - 2023, The 6th "Qiangwang Cup" National Network Security Challenge, Cryptography Mathematics Special Competition, Group Name: "CMixSAT", [🏆 **Champion**](images/qiangwang.png)
 
