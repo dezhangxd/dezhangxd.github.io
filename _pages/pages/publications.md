@@ -40,7 +40,7 @@ Lingfeng Zhu, **Xindi Zhang**, Yongjian Li\* and Shaowei Cai.\
 
 - `DAC 2025`
 X-SAT: An Efficient Circuit-Based SAT Solver.\
-Yuhang Qian, Zhihan Chen, **Xindi Zhang** and Shaowei Cai\*.
+Yuhang Qian, Zhihan Chen, **Xindi Zhang** and Shaowei Cai\*.\
 [💾X-SAT](https://github.com/shaowei-cai-group/X-SAT)
 
 
