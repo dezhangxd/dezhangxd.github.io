@@ -34,14 +34,14 @@ Zhiteng Chao†, **Xindi Zhang**†, Xinyu Zhang, Jianan Mu\*, Zizhen Liu, Shaow
 
 - `DAC 2025`
 Leveraging Critical Proof Obligations for Efficient IC3 Verification.\
-Lingfeng Zhu, **Xindi Zhang**, Yongjian Li\* and Shaowei Cai.
-
+Lingfeng Zhu, **Xindi Zhang**, Yongjian Li\* and Shaowei Cai.\
+[💾MCer](https://github.com/zhfffy/portfolioMC)
 
 
 - `DAC 2025`
 X-SAT: An Efficient Circuit-Based SAT Solver.\
 Yuhang Qian, Zhihan Chen, **Xindi Zhang** and Shaowei Cai\*.
-
+[💾X-SAT](https://github.com/shaowei-cai-group/X-SAT)
 
 
 - `DAC 2025` 

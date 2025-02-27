@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xindi Zhang (张昕荻)"
+  name             : "Xindi Zhang\n(张昕荻)"
   avatar           : "images/blue.png"
   bio              : "Institute of Software Chinese Acedemy of Science (ISCAS)"
   location         : "Beijing, China"

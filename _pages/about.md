@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Special Research Assistant (post-doctor) in [State Key Laboratory of Computer Science](https://lcs.ios.ac.cn/), [Institute of Software, Chinese Academy of Sciences](http://www.iscas.ac.cn), Beijing, China. 
+I am now a Special Research Assistant (post-doctor) in [Constraint Solving Lab](http://solver.ios.ac.cn/), [State Key Laboratory of Computer Science](https://lcs.ios.ac.cn/), [Institute of Software, Chinese Academy of Sciences](http://www.iscas.ac.cn), Beijing, China. 
+
 My cooperating mentor is  is [Prof. Shaowei Cai (蔡少伟)](http://people.ucas.ac.cn/~caisw). 
 
 My research interests are [SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem), [SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), [EDA](https://en.wikipedia.org/wiki/Electronic_design_automation) and etc.
