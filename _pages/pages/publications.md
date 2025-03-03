@@ -35,7 +35,7 @@ Zhiteng Chao†, **Xindi Zhang**†, Xinyu Zhang, Jianan Mu\*, Zizhen Liu, Shaow
 - `DAC 2025`
 Leveraging Critical Proof Obligations for Efficient IC3 Verification.\
 Lingfeng Zhu, **Xindi Zhang**, Yongjian Li\* and Shaowei Cai.\
-[💾MCer](https://github.com/zhfffy/portfolioMC)
+[💾MCer](https://github.com/ISCAS-modelchecker/modelchecker)
 
 
 - `DAC 2025`
