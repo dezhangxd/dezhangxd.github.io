@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SAT 2021</div><img src='images/relaxed.png' alt="sym" width="100%" ></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SAT 2021 [C3]</div><img src='images/relaxed.png' alt="sym" width="100%" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -26,51 +26,51 @@ Shaowei Cai†\*, **Xindi Zhang**†  2021.07, pp 64–81
 
 
 
-- `DAC 2025`
+- `DAC 2025 [C13]`
 PastATPG: A Hybrid ATPG Framework for Better Test Compaction with Partial Assignment SAT.\
 Zhiteng Chao†, **Xindi Zhang**†, Xinyu Zhang, Jianan Mu\*, Zizhen Liu, Shaowei Cai\*, Jing Ye, Xiaowei Li and Huawei Li\*.
 
 
 
-- `DAC 2025`
+- `DAC 2025 [C12]`
 Leveraging Critical Proof Obligations for Efficient IC3 Verification.\
 Lingfeng Zhu, **Xindi Zhang**, Yongjian Li\* and Shaowei Cai.\
 [💾MCer](https://github.com/ISCAS-modelchecker/modelchecker)
 
 
-- `DAC 2025`
+- `DAC 2025 [C11]`
 X-SAT: An Efficient Circuit-Based SAT Solver.\
 Yuhang Qian, Zhihan Chen, **Xindi Zhang** and Shaowei Cai\*.\
 [💾X-SAT](https://github.com/shaowei-cai-group/X-SAT)
 
 
-- `DAC 2025` 
+- `DAC 2025 [C10]` 
 Parallel Dynamic Partitioning for Datapath Combinational Equivalence Checking.\
 Shuai Zhou, Weikang Zhang, **Xindi Zhang**, Zite Jiang, Haihang You\* and Shaowei Cai\*.
 
 
-- `COR [J]`
+- `COR [J5]`
 [A fast local search algorithm for minimum sum coloring problem on massive graphs](https://www.sciencedirect.com/science/article/abs/pii/S0305054824002661)\
 Yan Li, Mengyu Zhao, **Xindi Zhang**, Yiyuan Wang\*.
 2024.09
 (Vol. 172 (2024), 106794)
 
 
-- `Integration [J]`
+- `Integration [J4]`
 [A fast test compaction method using dedicated Pure MaxSAT solver embedded in DFT flow](https://www.sciencedirect.com/science/article/abs/pii/S0167926024001299)\
 Zhiteng Chao, **Xindi Zhang**, Junying Huang, Zizhen Liu, Yixuan Zhao, Jing Ye, Shaowei Cai\*, Huawei Li\*, Xiaowei Li.
 2024.08
 (Vol. 100 (2024): 102265.)
 
 
-- `ISCAS` 
+- `ISCAS [D]` 
 [Hybrid Algorithms for SAT and SMT and Their Applications](https://drive.google.com/file/d/19msSCIx4wbdhs9ZjlN9l0SwS8bN78hLB/view?usp=sharing)\
 **Xindi Zhang**.
 2024.05 
 (ISCAS PHD Thesis)\
 [🎞️Slides](https://drive.google.com/file/d/1Rrxm9ceeS3v-gNCXbOc3ylLzGfqTs_Xy/view?usp=drive_link)
 
-- `ICSE 2024` 
+- `ICSE 2024 [C9]` 
 [Deep Combination of CDCL(T) and Local Search for Satisfiability Modulo Non-Linear Integer Arithmetic Theory](https://dl.acm.org/doi/abs/10.1145/3597503.3639105).\
 **Xindi Zhang**, Bohan Li, Shaowei Cai\*. 
 2024.03 (Article No.: 125, Pages 1–13)\
@@ -78,51 +78,51 @@ Zhiteng Chao, **Xindi Zhang**, Junying Huang, Zizhen Liu, Yixuan Zhao, Jing Ye, 
 [💾z3++]( https://github.com/shaowei-cai-group/z3pp)
 [🎞️Slides](slides/ICSE24-GA.pdf)
 
-- `ASP-DAC 2024`
+- `ASP-DAC 2024 [C8]`
 [A Fast Test Compaction Method for Commercial DFT Flow Using Dedicated Pure-MaxSAT Solver](https://ieeexplore.ieee.org/abstract/document/10473833).\
 Zhiteng Chao, **Xindi Zhang**, Junying Huang, Jing Ye\*, Shaowei Cai, Huawei Li, Xiaowei Li\*. 
 2024.03 (pp. 503-508)
 
-- `ICCAD 2023`
+- `ICCAD 2023 [C7]`
 [Integrating Exact Simulation into Sweeping for Datapath Combinational Equivalence Checking](https://ieeexplore.ieee.org/abstract/document/10323876).\
 Zhihan Chen, **Xindi Zhang**, Yuhang Qian, Qiang Xu, Shaowei Cai\*.
 2023.10 (pp. 1-9)\
 [💾hybridCEC](https://github.com/HybridCEC/Hybrid-CEC)
 [🎞️Slides](slides/185-ZhihanChen:Zhang.pdf)
 
-- `CP 2023`
+- `CP 2023 [C6]`
 [Improving Local Search for Structured SAT Formulas via Unit Propagation Based Construct and Cut Initialization (Short Paper)](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2021.5).\
 Shaowei Cai, Chuan Luo, **Xindi Zhang** and Jian Zhang.
 2023.07 (pp. 5:1-5:10)\
 [💾CNC](https://github.com/shaowei-cai-group/CNC-LS)
 
 
-- `ToCL [J]`
+- `ToCL [J3]`
 [Local Search For Satisfiability Modulo Integer Arithmetic Theories](https://dl.acm.org/doi/full/10.1145/3597495).\
 ‡Shaowei Cai\*, Bohan Li, **Xindi Zhang**.
 2023.07 (Vol 24(4): No.32, pp. 1-26)\
 [💾z3++](https://github.com/shaowei-cai-group/z3pp)
 
-- `JAIR [J]`
+- `JAIR [J2]`
 [Better Decision Heuristics in CDCL through Local Search and Target Phases](https://www.jair.org/index.php/jair/article/view/13666).\
 Shaowei Cai\*, **Xindi Zhang**, Mathias Fleury, Armin Biere.
 2022.08 (Vol. 74 (2022):1515-1563.)\
 [💾code](https://github.com/shaowei-cai-group/relaxed-sat)
 
-- `CAV 2022`
+- `CAV 2022 [C5]`
 [Local Search For SMT on Linear Integer Arithmetic](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_12).\
 ‡Shaowei Cai\*, Bohan Li, **Xindi Zhang**.
 2022.08, (pp. 227-248)\
 [💾z3++](https://github.com/shaowei-cai-group/z3pp)
 
-- `IJCAI 2022`
+- `IJCAI 2022 [C4]`
 [Deep Cooperation of CDCL and Local Search for SAT (Extended Abstract)](https://www.ijcai.org/proceedings/2022/734).\
 Shaowei Cai, **Xindi Zhang**.
 2022 (pp. 5274-5278)\
 [💾code](https://github.com/shaowei-cai-group/relaxed-sat)
 
 
-- `JAIR [J]`
+- `JAIR [J1]`
 [Efficient Local Search based on Dynamic Connectivity Maintenance for Minimum Connected Dominating Set](https://www.jair.org/index.php/jair/article/view/12618).\
 **Xindi Zhang**, Bohan Li, Shaowei Cai\*, Yiyuan Wang\*.
 2021.05 (Vol. 71 (2021), pp. 81-119)\
@@ -130,14 +130,14 @@ Shaowei Cai, **Xindi Zhang**.
 [💾NuCDS](https://github.com/shaowei-cai-group/FastCDS/blob/master/NuCDS.zip)
 
 
-- `CP 2020`
+- `CP 2020 [C2]`
 [Pure MaxSAT and Its Applications to Combinatorial Optimization via Linear Local Search](https://link.springer.com/chapter/10.1007/978-3-030-58475-7_6).\
 Shaowei Cai\*, **Xindi Zhang**.
 2020.09 (pp. 90-106)\
 [💾LinearLS](codes/linearLS.zip)
 
 
-- `IJCAI 2020`
+- `IJCAI 2020 [C1]`
 [NuCDS: An Efficient Local Search Algorithm for Minimum Connected Dominating Set](https://www.ijcai.org/Proceedings/2020/0209.pdf).\
 Bohan Li, **Xindi Zhang**, Shaowei Cai\*, Jinkun Lin, Yiyuan Wang, Cristain Blum.
 2020, (pp. 1503-1510)\
