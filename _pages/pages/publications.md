@@ -29,7 +29,7 @@ Shaowei Cai†\*, **Xindi Zhang**†  2021.07, pp 64–81
 - [C13] `DAC 2025`
 PastATPG: A Hybrid ATPG Framework for Better Test Compaction with Partial Assignment SAT.\
 Zhiteng Chao†, **Xindi Zhang**†, Xinyu Zhang, Jianan Mu\*, Zizhen Liu, Shaowei Cai\*, Jing Ye, Xiaowei Li and Huawei Li\*.
-
+[💾PastATPG](https://github.com/sklp-eda-lab/PastATPG) [💾PA-Minisat](https://github.com/sklp-eda-lab/PastATPG/tree/main/src/zhangsat)
 
 
 - [C12] `DAC 2025`
