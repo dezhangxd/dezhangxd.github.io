@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 1 papers have been accepted by CP（CCF-B）
 - *2025.02*: &nbsp;🎉🎉 4 papers have been accepted by DAC（CCF-A）
 - *2024.12*: &nbsp;🎉🎉 中国研究生创“芯”大赛·EDA精英挑战赛 二等奖 + 企业特别奖
 - *2024.08*: &nbsp;🎉🎉 Second Place in SAT Competition Cloud Track

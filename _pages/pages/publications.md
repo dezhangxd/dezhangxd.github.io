@@ -1,13 +1,12 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[C3] SAT 2021</div><img src='images/relaxed.png' alt="sym" width="100%" ></div></div>
-<div class='paper-box-text' markdown="1">
-
 ‡ Sorted by the Last Name; † Co-First Author; \* Corresponding Author; 
 
-
 ## Conference Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[C3] SAT 2021</div><img src='images/relaxed.png' alt="sym" width="100%" ></div></div>
+<div class='paper-box-text' markdown="1">
 
 [C3] [Deep Cooperation of CDCL and Local Search for SAT](https://link.springer.com/chapter/10.1007/978-3-030-80223-3_6)
 
