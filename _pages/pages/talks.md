@@ -17,8 +17,6 @@ Institute of Computing Technology, Chinese Academy of Sciences,
 Institute of Computing Technology, Chinese Academy of Sciences,
 [🎞️Slides](https://drive.google.com/file/d/1K1ys-Rm6M869t1jrY0nvjZghg6EE1lD1/view?usp=drive_link) 
 -->
-
-
 - *2024.05*,
 "SAT Solving and its Applications in EDA",
 Huawei,

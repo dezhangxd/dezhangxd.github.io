@@ -1,7 +1,7 @@
 # 🎖 Honors and Awards
 - *2024.07*, <span style="color:red">Graduate Student Representative</span>, University of Chinese Academy of Sciences (1/13691) (中国科学院大学 硕博研究生毕业生代表) [🔍](https://www.bilibili.com/video/BV1om421G7as/)
 - *2024.06*, Outstanding Graduates in Beijing
-- *2024.06*, The President Award of the Chinese Academy of Sciences - <span style="color:red">Special Award</span> (59 students in CAS) (院长奖学金-特别奖) [🔍](https://onestop.ucas.ac.cn/home/infob/9c313c74-c422-42a9-bb79-b9c3cfe45a01/1)
+- *2024.06*, The President Award of the Chinese Academy of Sciences - <span style="color:red">Special Award</span> (80 students in UCAS+USTC) (院长奖学金-特别奖) [🔍](https://onestop.ucas.ac.cn/home/infob/9c313c74-c422-42a9-bb79-b9c3cfe45a01/1)
 - *2023.12*, CCF Chinasoft, Outstanding Doctoral Representative (14 students in China)
 - *2023.11*, "Pollyanna Chu" Scholarship for Distinguished Doctorates (Top 1%) (朱李月华优秀博士奖学金)
 - *2023.11*, <span style="color:red">"FenJin" Scholarship</span> -- Integrated Circuit Personnel Training Project (EDA no more than 10 in China)("奋进奖学金--集成电路人才培养")[🔍](images/fenjin.jpeg)

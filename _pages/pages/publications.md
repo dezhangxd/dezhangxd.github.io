@@ -28,7 +28,7 @@ Shaowei Cai†\*, **Xindi Zhang**†  2021.07, pp 64–81
 
 - [14] `CP 2025`
 DynamicSAT: Dynamic Configuration Tuning for SAT Solving. \
-Zhengyuan Shi, Jiangwentao, **Xindi Zhang**\*, Jin Luo, Yun Liang, Zhufei Chu, Qiang Xu\*. \
+Zhengyuan Shi, Wentao Jiang, **Xindi Zhang**\*, Jin Luo, Yun Liang, Zhufei Chu, Qiang Xu\*. 
 
 
 - [C13] `DAC 2025`
