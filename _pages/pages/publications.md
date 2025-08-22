@@ -26,7 +26,12 @@ Shaowei Cai†\*, **Xindi Zhang**†  2021.07, pp 64–81
 </div>
 </div>
 
-- [14] `CP 2025`
+- [C15] `ASE 2025`
+SMTgazer: Learning to Schedule SMT Algorithms via Bayesian Optimization \
+Chuan Luo, Shaoke Cui, Jianping Song, **Xindi Zhang**\*, Wei Wu, Chanjuan Liu, Shaowei Cai, Chunming Hu.
+Zhengyuan Shi, Wentao Jiang, **Xindi Zhang**\*, Jin Luo, Yun Liang, Zhufei Chu, Qiang Xu\*. 
+
+- [C14] `CP 2025`
 DynamicSAT: Dynamic Configuration Tuning for SAT Solving. \
 Zhengyuan Shi, Wentao Jiang, **Xindi Zhang**\*, Jin Luo, Yun Liang, Zhufei Chu, Qiang Xu\*. 
 
@@ -109,6 +114,11 @@ Bohan Li, **Xindi Zhang**, Shaowei Cai\*, Jinkun Lin, Yiyuan Wang, Cristain Blum
 
 
 ## Journal Papers
+
+- [J6] `JOS`
+Cold Restart for CDCL Algorithms
+**Xindi Zhang**, Zhihan Chen, Shaowei Cai\*
+
 
 - [J5] `COR`
 [A fast local search algorithm for minimum sum coloring problem on massive graphs](https://www.sciencedirect.com/science/article/abs/pii/S0305054824002661)\

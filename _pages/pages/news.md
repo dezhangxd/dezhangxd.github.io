@@ -1,5 +1,8 @@
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 1 papers have been accepted by CP（CCF-B）
+- *2025.08*：&nbsp;🎉🎉 国际SAT协会最佳博士论文奖（每年全球一篇，亚洲首个）
+- *2025.08*：&nbsp;🎉🎉 1 paper has been accepted by ASE (CCF-A)
+- *2025.07*：&nbsp;🎉🎉 博士学位论文获得“中科院优秀博士论文”
+- *2025.05*: &nbsp;🎉🎉 1 papers has been accepted by CP（CCF-B）
 - *2025.02*: &nbsp;🎉🎉 4 papers have been accepted by DAC（CCF-A）
 - *2024.12*: &nbsp;🎉🎉 中国研究生创“芯”大赛·EDA精英挑战赛 二等奖 + 企业特别奖
 - *2024.08*: &nbsp;🎉🎉 Second Place in SAT Competition Cloud Track

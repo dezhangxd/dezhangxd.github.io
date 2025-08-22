@@ -1,4 +1,6 @@
 # 🎖 Honors and Awards
+- *2025.08*, <span style="color:red">Fahiem Bacchus Phd Thesis Award</span>, SAT Association （国际SAT协会最佳博士论文奖）
+- *2025.07*, <span style="color:red">Outstanding Phd Thesis Award</span>, Chinese Academy of Sciences (中科院优博论文)
 - *2024.07*, <span style="color:red">Graduate Student Representative</span>, University of Chinese Academy of Sciences (1/13691) (中国科学院大学 硕博研究生毕业生代表) [🔍](https://www.bilibili.com/video/BV1om421G7as/)
 - *2024.06*, Outstanding Graduates in Beijing
 - *2024.06*, The President Award of the Chinese Academy of Sciences - <span style="color:red">Special Award</span> (80 students in UCAS+USTC) (院长奖学金-特别奖) [🔍](https://onestop.ucas.ac.cn/home/infob/9c313c74-c422-42a9-bb79-b9c3cfe45a01/1)
