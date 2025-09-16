@@ -29,7 +29,6 @@ Shaowei Cai†\*, **Xindi Zhang**†  2021.07, pp 64–81
 - [C15] `ASE 2025`
 SMTgazer: Learning to Schedule SMT Algorithms via Bayesian Optimization \
 Chuan Luo, Shaoke Cui, Jianping Song, **Xindi Zhang**\*, Wei Wu, Chanjuan Liu, Shaowei Cai, Chunming Hu.
-Zhengyuan Shi, Wentao Jiang, **Xindi Zhang**\*, Jin Luo, Yun Liang, Zhufei Chu, Qiang Xu\*. 
 
 - [C14] `CP 2025`
 DynamicSAT: Dynamic Configuration Tuning for SAT Solving. \
