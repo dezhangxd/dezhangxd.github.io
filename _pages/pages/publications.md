@@ -114,9 +114,13 @@ Bohan Li, **Xindi Zhang**, Shaowei Cai\*, Jinkun Lin, Yiyuan Wang, Cristain Blum
 
 ## Journal Papers
 
+- [J7] `TODAES`
+Datapath Combinational Equivalence Checking With Hybrid Sweeping Engines and Parallelization.\
+Zhihan Chen, **Xindi Zhang**, Yuhang Qian, Shaowei Cai\*.
+
 - [J6] `JOS`
-Cold Restart for CDCL Algorithms
-**Xindi Zhang**, Zhihan Chen, Shaowei Cai\*
+Cold Restart for CDCL Algorithms.\
+**Xindi Zhang**, Zhihan Chen, Shaowei Cai\*.
 
 
 - [J5] `COR`
