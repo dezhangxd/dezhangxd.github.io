@@ -31,30 +31,30 @@ SMTgazer: Learning to Schedule SMT Algorithms via Bayesian Optimization \
 Chuan Luo, Shaoke Cui, Jianping Song, **Xindi Zhang**\*, Wei Wu, Chanjuan Liu, Shaowei Cai, Chunming Hu.
 
 - [C14] `CP 2025`
-DynamicSAT: Dynamic Configuration Tuning for SAT Solving. \
+[DynamicSAT: Dynamic Configuration Tuning for SAT Solving.](https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.34/LIPIcs.CP.2025.34.pdf) \
 Zhengyuan Shi, Wentao Jiang, **Xindi Zhang**\*, Jin Luo, Yun Liang, Zhufei Chu, Qiang Xu\*. 
-
+[💾DynamicSAT](https://github.com/cure-lab/DynamicSAT)
 
 - [C13] `DAC 2025`
-PastATPG: A Hybrid ATPG Framework for Better Test Compaction with Partial Assignment SAT.\
+[PastATPG: A Hybrid ATPG Framework for Better Test Compaction with Partial Assignment SAT.](https://ieeexplore.ieee.org/abstract/document/11132425/) \
 Zhiteng Chao†, **Xindi Zhang**†, Xinyu Zhang, Jianan Mu\*, Zizhen Liu, Shaowei Cai\*, Jing Ye, Xiaowei Li and Huawei Li\*. \
 [💾PastATPG](https://github.com/sklp-eda-lab/PastATPG) [💾PA-Minisat](https://github.com/sklp-eda-lab/PastATPG/tree/main/src/zhangsat)
 
 
 - [C12] `DAC 2025`
-Leveraging Critical Proof Obligations for Efficient IC3 Verification.\
+[Leveraging Critical Proof Obligations for Efficient IC3 Verification.](https://ieeexplore.ieee.org/abstract/document/11132734/) \
 Lingfeng Zhu, **Xindi Zhang**, Yongjian Li\* and Shaowei Cai.\
 [💾MCer](https://github.com/ISCAS-modelchecker/modelchecker)
 
 
 - [C11] `DAC 2025`
-X-SAT: An Efficient Circuit-Based SAT Solver.\
+[X-SAT: An Efficient Circuit-Based SAT Solver.](https://ieeexplore.ieee.org/abstract/document/11132604/) \
 Yuhang Qian, Zhihan Chen, **Xindi Zhang** and Shaowei Cai\*.\
 [💾X-SAT](https://github.com/shaowei-cai-group/X-SAT)
 
 
 - [C10] `DAC 2025` 
-Parallel Dynamic Partitioning for Datapath Combinational Equivalence Checking.\
+[Parallel Dynamic Partitioning for Datapath Combinational Equivalence Checking.](https://ieeexplore.ieee.org/abstract/document/11132837)\
 Shuai Zhou, Weikang Zhang, **Xindi Zhang**, Zite Jiang, Haihang You\* and Shaowei Cai\*.
 
 
@@ -115,11 +115,12 @@ Bohan Li, **Xindi Zhang**, Shaowei Cai\*, Jinkun Lin, Yiyuan Wang, Cristain Blum
 ## Journal Papers
 
 - [J7] `TODAES`
-Datapath Combinational Equivalence Checking With Hybrid Sweeping Engines and Parallelization.\
+[Datapath Combinational Equivalence Checking With Hybrid Sweeping Engines and Parallelization.](https://dl.acm.org/doi/full/10.1145/3773040)\
 Zhihan Chen, **Xindi Zhang**, Yuhang Qian, Shaowei Cai\*.
+[ParaHCEC](https://github.com/shaowei-cai-group/ParaHCEC)
 
 - [J6] `JOS`
-Cold Restart for CDCL Algorithms.\
+[Cold Restart for CDCL Algorithms.](https://jos.org.cn/jos/article/abstract/7509) \
 **Xindi Zhang**, Zhihan Chen, Shaowei Cai\*.
 
 
