@@ -14,6 +14,8 @@
 ## Competitions Awards
 
 - The International SAT Competition & Race [🏠Homepage](https://satcompetition.github.io/)
+    * 2025:
+    [PRS](https://github.com/shaowei-cai-group/PRS-sc25) won 3rd Place of Parallel Track.
     * 2024:
     [PRS](https://github.com/shaowei-cai-group/PRS-sc24) won [🥈Cloud Track](https://satcompetition.github.io/2024/downloads/satcomp24slides.pdf)
     * 2023: 
@@ -38,11 +40,14 @@
     * SAT: [ParKissat-RS](https://github.com/shaowei-cai-group/ParKissat-RS) won [🏆Parallel Track](imagaes/floc-sat.png)
     * SMT: [z3++](https://github.com/shaowei-cai-group/z3pp) won [🏆MV-Biggest Lead & 🏆MV-Largest Contribution](images/smt22.png)
 
-- 2024, China Postgraduate IC Innovation Competition EDA Elite Challenge (中国研究生创“芯”大赛 EDA精英挑战赛), [🥈Second award](images/EDA240335.pdf), [🏢 Enterprise Special Award (S2C)](https://mp.weixin.qq.com/s/wUsnpof64iZvUnvfDSRUow)
+- China Postgraduate IC Innovation Competition EDA Elite Challenge (中国研究生创“芯”大赛 EDA精英挑战赛)
+    * 2025, [🥉Third Prize](images/eda-25.pdf)
+    * 2024, [🥈Second Prize](images/EDA240335.pdf), [🏢 Enterprise Special Award (S2C)](https://mp.weixin.qq.com/s/wUsnpof64iZvUnvfDSRUow)
+    * 2022, Integrated Circuit EDA Elite Challenge, [🥈Second award](images/eda-cec.png), [🏢 Enterprise Special Award (Hisilicon)](https://mp.weixin.qq.com/s/K-auffEgAx4HZ3-7q4gI1Q)
+
 
 - 2023, The 6th "Qiangwang Cup" National Network Security Challenge, Cryptography Mathematics Special Competition, (“强网杯”全国网络安全挑战赛，密码数学专项赛) Group Name: "CMixSAT", [🏆 **Champion**](images/qiangwang.png)
 
-- 2022, Integrated Circuit EDA Elite Challenge, [🥈Second award](images/eda-cec.png), [🏢 Enterprise Special Award (Hisilicon)](https://mp.weixin.qq.com/s/K-auffEgAx4HZ3-7q4gI1Q)
 
 - 2017, Interdisciplinary Contest In Modeling, [Meritorious Winner](images/usa-m.png)
 

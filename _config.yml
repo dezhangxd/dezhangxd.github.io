@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xindi Zhang\n(张昕荻)"
-  avatar           : "images/blue.png"
+  avatar           : "images/grey.png"
   bio              : "Institute of Software Chinese Acedemy of Science (ISCAS)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=eRVlyBEAAAAJ&hl=zh-CN"
-  email            : "zhangxd@ios.ac.cn"
+  email            : "dezhangxd@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
