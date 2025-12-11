@@ -116,8 +116,8 @@ Bohan Li, **Xindi Zhang**, Shaowei Cai\*, Jinkun Lin, Yiyuan Wang, Cristain Blum
 
 - [J7] `TODAES`
 [Datapath Combinational Equivalence Checking With Hybrid Sweeping Engines and Parallelization.](https://dl.acm.org/doi/full/10.1145/3773040)\
-Zhihan Chen, **Xindi Zhang**, Yuhang Qian, Shaowei Cai\*.
-[ParaHCEC](https://github.com/shaowei-cai-group/ParaHCEC)
+Zhihan Chen, **Xindi Zhang**, Yuhang Qian, Shaowei Cai\*. \
+[💾ParaHCEC](https://github.com/shaowei-cai-group/ParaHCEC)
 
 - [J6] `JOS`
 [Cold Restart for CDCL Algorithms.](https://jos.org.cn/jos/article/abstract/7509) \
