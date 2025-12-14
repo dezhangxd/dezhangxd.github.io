@@ -223,6 +223,12 @@
       }
     }
 
+    // Ensure language switch button is always visible
+    .masthead__menu-item--lang-switch {
+      display: table-cell !important;
+      white-space: nowrap;
+    }
+
     a {
       position: relative;
 
@@ -285,6 +291,13 @@
           border-color: $masthead-link-color-hover;
         }
       }
+    }
+
+    // Force language switch button to be visible even in hidden links
+    .masthead__menu-item--lang-switch {
+      display: block !important;
+      position: relative;
+      z-index: 10;
     }
 
     &:before {
