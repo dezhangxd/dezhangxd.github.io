@@ -6,10 +6,12 @@
           <div class="navicon"></div>
         </button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a
-              href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me"
+              data-lang-en="Homepage" data-lang-zh="主页">Homepage</a></li>
           {% for link in site.data.navigation.main %}
-          <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" data-lang-en="{{ link.title }}"
+              data-lang-zh="{% if link.title == 'About Me' %}关于我{% elsif link.title == 'News' %}新闻{% elsif link.title == 'Publications' %}发表论文{% elsif link.title == 'Honors and Awards' %}荣誉奖项{% elsif link.title == 'Educations' %}教育经历{% elsif link.title == 'Talks' %}学术报告{% else %}{{ link.title }}{% endif %}">{{
+              link.title }}</a></li>
           {% endfor %}
           <li class="masthead__menu-item"><a href="javascript:void(0);" id="lang-switch-btn"
               onclick="switchLanguage(); return false;">中文</a></li>
