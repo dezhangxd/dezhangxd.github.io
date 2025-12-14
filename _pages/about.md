@@ -23,6 +23,15 @@ redirect_from:
   <p>Group is lead by <a href='http://people.ucas.ac.cn/~caisw'>Prof. Shaowei Cai (蔡少伟)</a>.</p>
   
   <p>My research interests are <a href='https://en.wikipedia.org/wiki/Boolean_satisfiability_problem'>SAT</a>, <a href='https://en.wikipedia.org/wiki/Satisfiability_modulo_theories'>SMT</a>, <a href='https://en.wikipedia.org/wiki/Electronic_design_automation'>EDA</a> and etc.</p>
+
+  <ul>
+    <li>SAT Association "Best PhD Thesis Award" (<span style="color:red;">Chinese First</span>), SAT Conference "Best Paper Award" (<span style="color:red;">Chinese First</span>).</li>
+    <li>International SAT, SMT, FLoC Competitions <span style="color:red;">champion</span> 20+, including the <span style="color:red;">Chinese first</span> SMT competition championship.</li>
+    <li>Developer of high-performance open-source parallel formal verification tools, contributor to the EDA<sup>2</sup> "Computing Power Infrastructure White Paper".</li>
+    <li>SAT and EDA tools adopted by Huawei and multiple EDA companies.</li>
+  </ul>
+
+
 </div>
 
 <div class="lang-content lang-content-zh" style="display: none;">
@@ -31,6 +40,13 @@ redirect_from:
   <p>课题组负责人为<a href='http://people.ucas.ac.cn/~caisw'>蔡少伟研究员</a>。</p>
   
   <p>我的研究兴趣包括<a href='https://en.wikipedia.org/wiki/Boolean_satisfiability_problem'>SAT</a>、<a href='https://en.wikipedia.org/wiki/Satisfiability_modulo_theories'>SMT</a>、<a href='https://en.wikipedia.org/wiki/Electronic_design_automation'>EDA</a>等。</p>
+
+  <ul>
+    <li>国际SAT协会“最佳博士论文奖”（<span style="color:red;">中国首个</span>），国际SAT会议“最佳论文奖”（<span style="color:red;">中国首个</span>）</li>
+    <li>国际SAT、SMT、FLoC等<span style="color:red;">冠军</span>20+项，<span style="color:red;">中国首个</span>国际SMT比赛冠军 </li>
+    <li>高性能开源并行形式化验证工具，参与EDA<sup>2</sup>《算力底座白皮书》</li>
+    <li>SAT及EDA工具落地华为及多家EDA企业 </li>
+  </ul>
 </div>
 
 
