@@ -1,0 +1,19 @@
+# main links links for Chinese version
+main:
+  - title: "关于我"
+    url: "#about-me"
+
+  - title: "新闻动态"
+    url: "#-新闻动态"
+
+  - title: "发表论文"
+    url: "#-发表论文"
+
+  - title: "荣誉与奖项"
+    url: "#-荣誉与奖项"
+
+  - title: "教育经历"
+    url: "#-教育经历"
+
+  - title: "学术报告"
+    url: "#-学术报告"

@@ -269,6 +269,7 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
+  arm64-darwin-25
   universal-darwin-19
   universal-darwin-23
   x86_64-linux
@@ -280,4 +281,4 @@ DEPENDENCIES
   jekyll-sitemap
 
 BUNDLED WITH
-   2.2.19
+   2.4.22
