@@ -44,7 +44,7 @@ redirect_from:
   <ul>
     <li>国际SAT协会“最佳博士论文奖”（<span style="color:red;">中国首个</span>），国际SAT会议“最佳论文奖”（<span style="color:red;">中国首个</span>）</li>
     <li>国际SAT、SMT、FLoC等<span style="color:red;">冠军</span>20+项，<span style="color:red;">中国首个</span>国际SMT比赛冠军 </li>
-    <li>高性能开源并行形式化验证工具，参与EDA<sup>2</sup>《算力底座白皮书》</li>
+    <li>高性能开源并行形式化验证工具，参编EDA<sup>2</sup>《算力底座白皮书》</li>
     <li>SAT及EDA工具落地华为及多家EDA企业 </li>
   </ul>
 </div>
