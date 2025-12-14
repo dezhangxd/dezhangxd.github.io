@@ -1,4 +1,4 @@
-<h1 data-lang-en="📖 Educations" data-lang-zh="📖 教育经历">📖 Educations</h1> 
+<h1 id="-educations" data-lang-en="📖 Educations" data-lang-zh="📖 教育经历">📖 Educations</h1> 
 
 - *Jul. 2024 - Now*, Special Research Assistant (Post-Doctor), Key Laboratory of System Software (Chinese Academy of Sciences) and State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China.
 - *Aug. 2018 - Jun. 2024*, M.D & Ph.D. student, (Supervisor: Prof. Shaowei Cai), State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China.

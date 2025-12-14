@@ -1,4 +1,4 @@
-<h1 data-lang-en="🔥 News" data-lang-zh="🔥 新闻">🔥 News</h1>
+<h1 id="-news" data-lang-en="🔥 News" data-lang-zh="🔥 新闻">🔥 News</h1>
 - *2025.08*：&nbsp;🎉🎉 国际SAT协会最佳博士论文奖（每年全球一篇，亚洲首个）
 - *2025.08*：&nbsp;🎉🎉 1 paper has been accepted by ASE (CCF-A)
 - *2025.07*：&nbsp;🎉🎉 博士学位论文获得“中科院优秀博士论文”
