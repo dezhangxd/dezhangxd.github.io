@@ -10,8 +10,8 @@
 
   // 更新导航链接文本
   function updateNavigationText() {
-    // 更新所有带有 data-lang-en 和 data-lang-zh 属性的链接
-    var navLinks = document.querySelectorAll('.visible-links a[data-lang-en], .visible-links a[data-lang-zh]');
+    // 更新所有带有 data-lang-en 和 data-lang-zh 属性的链接（包括可见和隐藏的）
+    var navLinks = document.querySelectorAll('.visible-links a[data-lang-en], .visible-links a[data-lang-zh], .hidden-links a[data-lang-en], .hidden-links a[data-lang-zh]');
     navLinks.forEach(function (link) {
       if (window.language_en) {
         // 显示英文
@@ -60,7 +60,7 @@
     var profileElements = document.querySelectorAll('[data-lang-en], [data-lang-zh]');
     profileElements.forEach(function (element) {
       // 跳过导航链接，因为它们已经由 updateNavigationText 处理
-      if (element.closest('.visible-links')) {
+      if (element.closest('.visible-links') || element.closest('.hidden-links')) {
         return;
       }
       // 跳过语言内容块，因为它们已经由 updateLangContentBlocks 处理
