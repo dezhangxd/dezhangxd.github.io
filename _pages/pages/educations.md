@@ -1,4 +1,4 @@
-<h1 id="-educations" data-lang-en="📖 Educations" data-lang-zh="📖 履历">📖 Educations</h1>
+<h1 id="-resume" data-lang-en="📖 Resume" data-lang-zh="📖 履历">📖 Educations</h1>
 
 - <span class="lang-content lang-content-en"><em>Jul. 2024 - Now</em>:</span><span class="lang-content lang-content-zh" style="display: none;"><em>2024年7月 - 至今</em>：</span>
   <span class="lang-content lang-content-en">Special Research Assistant (Post-Doctor), Key Laboratory of System Software (Chinese Academy of Sciences) and State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China.</span>

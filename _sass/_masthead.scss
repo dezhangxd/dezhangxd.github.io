@@ -8,9 +8,9 @@
   background-color: white;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
+  animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
+  animation-delay: 0.15s;
   z-index: 20;
 
   &__inner-wrap {
@@ -47,6 +47,7 @@
   @include breakpoint($medium) {
     display: block !important;
   }
+
   display: none !important;
 }
 
@@ -59,6 +60,26 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  &--lang-switch {
+    .lang-switch-btn {
+      color: $primary-color !important;
+      font-weight: 600;
+      padding: 0.3em 0.8em;
+      border: 1.5px solid $primary-color;
+      border-radius: 4px;
+      margin: 0 0.5rem;
+      transition: all 0.2s ease;
+
+      &:hover {
+        background-color: mix(#fff, $primary-color, 90%);
+        color: $masthead-link-color-hover !important;
+        border-color: $masthead-link-color-hover;
+      }
+
+      &:before {
+        display: none; // 隐藏默认的下划线动画
+      }
+    }
+  }
 }
-
-
