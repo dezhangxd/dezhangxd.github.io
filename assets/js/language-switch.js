@@ -29,6 +29,31 @@
     });
   }
 
+  // 更新语言内容块（包含多个段落的内容）
+  function updateLangContentBlocks() {
+    // 显示/隐藏语言内容块
+    var enBlocks = document.querySelectorAll('.lang-content-en');
+    var zhBlocks = document.querySelectorAll('.lang-content-zh');
+
+    if (window.language_en) {
+      // 显示英文，隐藏中文
+      enBlocks.forEach(function (block) {
+        block.style.display = '';
+      });
+      zhBlocks.forEach(function (block) {
+        block.style.display = 'none';
+      });
+    } else {
+      // 显示中文，隐藏英文
+      enBlocks.forEach(function (block) {
+        block.style.display = 'none';
+      });
+      zhBlocks.forEach(function (block) {
+        block.style.display = '';
+      });
+    }
+  }
+
   // 更新作者资料中的文本（Email、Google Scholar、地址等）
   function updateAuthorProfileText() {
     // 更新所有带有 data-lang-en 和 data-lang-zh 属性的元素
@@ -36,6 +61,10 @@
     profileElements.forEach(function (element) {
       // 跳过导航链接，因为它们已经由 updateNavigationText 处理
       if (element.closest('.visible-links')) {
+        return;
+      }
+      // 跳过语言内容块，因为它们已经由 updateLangContentBlocks 处理
+      if (element.closest('.lang-content')) {
         return;
       }
 
@@ -77,6 +106,7 @@
   function updateAllText() {
     updateNavigationText();
     updateButtonText();
+    updateLangContentBlocks();
     updateAuthorProfileText();
   }
 
