@@ -54,7 +54,7 @@
     }
   }
 
-  // 更新作者资料中的文本（Email、Google Scholar、地址等）
+  // 更新作者资料中的文本（Email、Google Scholar、地址等）和页面标题（h1）
   function updateAuthorProfileText() {
     // 更新所有带有 data-lang-en 和 data-lang-zh 属性的元素
     var profileElements = document.querySelectorAll('[data-lang-en], [data-lang-zh]');
@@ -72,8 +72,11 @@
         // 显示英文
         var enText = element.getAttribute('data-lang-en');
         if (enText) {
-          // 检查是否包含 HTML 标签
-          if (enText.indexOf('<') !== -1) {
+          // 对于 h1 和 h2 标题，使用 innerHTML 以保留 emoji 等特殊字符
+          if (element.tagName === 'H1' || element.tagName === 'H2') {
+            element.innerHTML = enText;
+          } else if (enText.indexOf('<') !== -1) {
+            // 检查是否包含 HTML 标签
             element.innerHTML = enText;
           } else {
             element.textContent = enText;
@@ -83,8 +86,11 @@
         // 显示中文
         var zhText = element.getAttribute('data-lang-zh');
         if (zhText) {
-          // 检查是否包含 HTML 标签
-          if (zhText.indexOf('<') !== -1) {
+          // 对于 h1 和 h2 标题，使用 innerHTML 以保留 emoji 等特殊字符
+          if (element.tagName === 'H1' || element.tagName === 'H2') {
+            element.innerHTML = zhText;
+          } else if (zhText.indexOf('<') !== -1) {
+            // 检查是否包含 HTML 标签
             element.innerHTML = zhText;
           } else {
             element.textContent = zhText;

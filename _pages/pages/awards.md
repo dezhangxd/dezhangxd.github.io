@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+<h1 data-lang-en="🎖 Honors and Awards" data-lang-zh="🎖 荣誉奖项">🎖 Honors and Awards</h1>
 - *2025.08*, <span style="color:red">Fahiem Bacchus Phd Thesis Award</span>, SAT Association （国际SAT协会最佳博士论文奖）
 - *2025.07*, <span style="color:red">Outstanding Phd Thesis Award</span>, Chinese Academy of Sciences (中科院优博论文)
 - *2024.07*, <span style="color:red">Graduate Student Representative</span>, University of Chinese Academy of Sciences (1/13691) (中国科学院大学 硕博研究生毕业生代表) [🔍](https://www.bilibili.com/video/BV1om421G7as/)
@@ -11,7 +11,7 @@
 - *2020.11*, National Scholarship for Graduate Students (硕士国家奖学金) (Top 1%)
 
 
-## Competitions Awards
+<h2 data-lang-en="Competitions Awards" data-lang-zh="竞赛奖项">Competitions Awards</h2>
 
 - The International SAT Competition & Race [🏠Homepage](https://satcompetition.github.io/)
     * 2025:

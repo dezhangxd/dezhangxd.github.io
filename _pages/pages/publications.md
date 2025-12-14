@@ -1,9 +1,9 @@
 
-# 📝 Publications 
+<h1 data-lang-en="📝 Publications" data-lang-zh="📝 发表论文">📝 Publications</h1> 
 
 ‡ Sorted by the Last Name; † Co-First Author; \* Corresponding Author; 
 
-## Conference Papers
+<h2 data-lang-en="Conference Papers" data-lang-zh="会议论文">Conference Papers</h2>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[C3] SAT 2021</div><img src='images/relaxed.png' alt="sym" width="100%" ></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,7 +112,7 @@ Bohan Li, **Xindi Zhang**, Shaowei Cai\*, Jinkun Lin, Yiyuan Wang, Cristain Blum
 [💾NuCDS](https://github.com/shaowei-cai-group/FastCDS/blob/master/NuCDS.zip)
 
 
-## Journal Papers
+<h2 data-lang-en="Journal Papers" data-lang-zh="期刊论文">Journal Papers</h2>
 
 - [J7] `TODAES`
 [Datapath Combinational Equivalence Checking With Hybrid Sweeping Engines and Parallelization.](https://dl.acm.org/doi/full/10.1145/3773040)\
@@ -161,7 +161,7 @@ Shaowei Cai\*, **Xindi Zhang**, Mathias Fleury, Armin Biere.
 
 
 
-## Thesis
+<h2 data-lang-en="Thesis" data-lang-zh="学位论文">Thesis</h2>
 
 - [D] `ISCAS` 
 [Hybrid Algorithms for SAT and SMT and Their Applications](https://drive.google.com/file/d/19msSCIx4wbdhs9ZjlN9l0SwS8bN78hLB/view?usp=sharing)\
