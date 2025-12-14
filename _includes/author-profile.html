@@ -13,7 +13,8 @@
       {{ author.name }}
       {% if author.name_zh %}<br>{{ author.name_zh }}{% endif %}
     </h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio"><span data-lang-en="{{ author.bio }}" data-lang-zh="中国科学院软件研究所">Institute
+        of Software Chinese Academy of Science (ISCAS)</span></p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -21,7 +22,8 @@
     <ul class="author__urls social-icons">
       {% if site.description %}
       <li>
-        <div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div>
+        <div style="white-space: normal; margin-bottom: 1em;"><span data-lang-en="{{ site.description }}"
+            data-lang-zh="特别研究助理，SAT及其应用。">{{ site.description }}</span></div>
       </li>
       {% endif %}
       {% if author.location %}

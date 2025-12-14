@@ -43,13 +43,23 @@
         // 显示英文
         var enText = element.getAttribute('data-lang-en');
         if (enText) {
-          element.textContent = enText;
+          // 检查是否包含 HTML 标签
+          if (enText.indexOf('<') !== -1) {
+            element.innerHTML = enText;
+          } else {
+            element.textContent = enText;
+          }
         }
       } else {
         // 显示中文
         var zhText = element.getAttribute('data-lang-zh');
         if (zhText) {
-          element.textContent = zhText;
+          // 检查是否包含 HTML 标签
+          if (zhText.indexOf('<') !== -1) {
+            element.innerHTML = zhText;
+          } else {
+            element.textContent = zhText;
+          }
         }
       }
     });
