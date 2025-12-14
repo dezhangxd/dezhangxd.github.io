@@ -38,16 +38,11 @@ redirect_from:
 
 {% include_relative pages/news.md %}
 
-{% include_relative pages/publications.md %}
-
-
 {% include_relative pages/awards.md %}
 
+{% include_relative pages/publications.md %}
 
 {% include_relative pages/educations.md %}
-
-
-
 
 {% include_relative pages/talks.md %}
 
