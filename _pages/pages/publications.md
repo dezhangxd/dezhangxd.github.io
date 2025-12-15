@@ -1,7 +1,7 @@
 
 <h1 id="-publications" data-lang-en="📝 Publications" data-lang-zh="📝 发表论文">📝 Publications</h1> 
 
-‡ Sorted by the Last Name; † Co-First Author; \* Corresponding Author; 
+‡ <span data-lang-en="Sorted by the Last Name" data-lang-zh="按姓氏排序">Sorted by the Last Name</span>; † <span data-lang-en="Co-First Author" data-lang-zh="共同第一作者">Co-First Author</span>; \* <span data-lang-en="Corresponding Author" data-lang-zh="通讯作者">Corresponding Author</span>; 
 
 <h2 data-lang-en="Conference Papers" data-lang-zh="会议论文">Conference Papers</h2>
 
