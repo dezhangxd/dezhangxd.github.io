@@ -119,9 +119,9 @@ Bohan Li, **Xindi Zhang**, Shaowei Cai\*, Jinkun Lin, Yiyuan Wang, Cristain Blum
 Zhihan Chen, **Xindi Zhang**, Yuhang Qian, Shaowei Cai\*. \
 [💾ParaHCEC](https://github.com/shaowei-cai-group/ParaHCEC)
 
-- [J6] `JOS`
-[Cold Restart for CDCL Algorithms.](https://jos.org.cn/jos/article/abstract/7509) \
-**Xindi Zhang**, Zhihan Chen, Shaowei Cai\*.
+- [J6] <code><span data-lang-en="JOS" data-lang-zh="软件学报">JOS</span></code>
+[<span data-lang-en="Cold Restart for CDCL Algorithms." data-lang-zh="CDCL算法的冷重启技术">Cold Restart for CDCL Algorithms.</span>](https://jos.org.cn/jos/article/abstract/7509) \
+<span data-lang-en="<strong>Xindi Zhang</strong>, Zhihan Chen, Shaowei Cai*." data-lang-zh="<strong>张昕荻</strong>，陈志翰，蔡少伟*."><strong>Xindi Zhang</strong>, Zhihan Chen, Shaowei Cai\*.</span>
 
 
 - [J5] `COR`
@@ -163,8 +163,8 @@ Shaowei Cai\*, **Xindi Zhang**, Mathias Fleury, Armin Biere.
 
 <h2 data-lang-en="Thesis" data-lang-zh="学位论文">Thesis</h2>
 
-- [D] `ISCAS` 
-[Hybrid Algorithms for SAT and SMT and Their Applications](https://drive.google.com/file/d/19msSCIx4wbdhs9ZjlN9l0SwS8bN78hLB/view?usp=sharing)\
+- [D] <code><span data-lang-en="ISCAS" data-lang-zh="中科院软件所">ISCAS</span></code> 
+[<span data-lang-en="Hybrid Algorithms for SAT and SMT and Their Applications" data-lang-zh="SAT和SMT问题的混合求解算法及应用">Hybrid Algorithms for SAT and SMT and Their Applications</span>](https://drive.google.com/file/d/19msSCIx4wbdhs9ZjlN9l0SwS8bN78hLB/view?usp=sharing)\
 **Xindi Zhang**.
 2024.05 
 (ISCAS PHD Thesis)\
