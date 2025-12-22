@@ -5,8 +5,8 @@
 (function () {
   'use strict';
 
-  // 全局变量 language_en，默认为 true (英文)
-  window.language_en = window.language_en !== undefined ? window.language_en : true;
+  // 全局变量 language_en，默认为 false (中文)
+  window.language_en = window.language_en !== undefined ? window.language_en : false;
 
   // 更新导航链接文本
   function updateNavigationText() {
