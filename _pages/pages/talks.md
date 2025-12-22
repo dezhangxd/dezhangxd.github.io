@@ -1,24 +1,39 @@
 <h1 id="-talks" data-lang-en="💬 Talks" data-lang-zh="💬 学术报告">💬 Talks</h1>
 
+- *2025.11--2025.12*,
+"SAT求解及EDA形式化技术简述",
+东北师范大学, 吉林大学, 西南交通大学, 西华大学, 等
+[🎞️Slides](https://drive.google.com/file/d/1ZWCkSxQtjxcmgxabGTk7m_Dehx4gmSgU/view?usp=sharing)
+
+- *2025.11*,
+"异构并行SAT求解及组合等价性验证",
+ChinaSoft 2025,
+[🎞️Slides](https://drive.google.com/file/d/1GtHEi7hxW6RGDv0VaD9XFs5fQeKlIoyR/view?usp=sharing)
+
+
+- *2025.11*,
+"EDA形式化验证的并行算法",
+ChinaSoft 2025,
+[🎞️Slides](https://drive.google.com/file/d/1Qfg_Y718x2oSnPshWemyr0clbrNsArwq/view?usp=sharing)
+
+
 - *2025.05*,
 "Advances on SAT and Equivalence Checking",
 ISEDA 25
 [🎞️Slides](https://drive.google.com/file/d/1Ox7Yq_sJ8JS13g2iTAeDv7YMNJKBYc6V/view?usp=sharing)
 
-
 - *2024.08*,
-"Introduction of SAT and its Applications in EDA",
+"SAT求解及其EDA应用简述",
 Institute of Computing Technology, Chinese Academy of Sciences,
 [🎞️Slides](https://drive.google.com/file/d/1tc0NuzxFKerDiG4Gwvwpt3ioOzxbb8Yl/view?usp=drive_link)
 
-<!-- 
 - *2024.06*,
 "坐稳“冷”板凳，在不变中拥抱变化",
 Institute of Computing Technology, Chinese Academy of Sciences,
 [🎞️Slides](https://drive.google.com/file/d/1K1ys-Rm6M869t1jrY0nvjZghg6EE1lD1/view?usp=drive_link) 
--->
+
 - *2024.05*,
-"SAT Solving and its Applications in EDA",
+"SAT求解及其EDA应用简述",
 Huawei,
 [🎞️Slides](https://drive.google.com/file/d/11aES8RAHj51R6ZapxCq8RQ7cquij_MTI/view?usp=drive_link)
 
@@ -33,14 +48,6 @@ KouShare,
 [🎞️Slides](https://drive.google.com/file/d/1WtbYNH2ZF07p5ioMRNjpbzQUTDIbQ-pG/view?usp=drive_link)
 [📽️Video](https://www.koushare.com/live/details/22342)
 
-
-<!-- - *2023.12*
-"Intriduction of SAT Studies & PhD Thinking"
-CCF-ChinaSoft,
-[🎞️Slides](https://drive.google.com/file/d/1i6R6hykgvhTFbf5XybWMTJdaQ7CFCEas/view?usp=sharing) -->
-
-<!-- 
-- *2023.09*
-"Integrating Exact Simulation into Sweeping for Datapath Combinational Equivalence Checking"
-ICCAD 2023,
-[🎞️Slides](https://drive.google.com/file/d/1vJ_Q3LIeM3Jc6p4y0qYMhP1NtkXqzFWV/view?usp=sharing) -->
+- *2023.07*,
+"SAT并行求解与密码学求解应用",
+[🎞️Slides](https://drive.google.com/file/d/1BmaTYf6kDrHjnzAmfSxn2l4gS6g5xDlM/view?usp=sharing)
