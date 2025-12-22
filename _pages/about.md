@@ -67,7 +67,7 @@ redirect_from:
 
 
 
+<!-- 
+<h1 id="-publications" data-lang-en="👥 Visitors" data-lang-zh="👥 访问统计">📝 Visitors</h1>  -->
 
-<h1 id="-publications" data-lang-en="👥 Visitors" data-lang-zh="👥 访问统计">📝 Visitors</h1> 
-
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=tt&d=2d7u2ZCPpVQzQCoG1ZldNQ5G4vtpNX6j3I1FR6dwzEk&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<script async src="https://019b4688-6da4-7b2f-8bc6-cc029f6efff0.spst2.com/ustat.js"></script>
