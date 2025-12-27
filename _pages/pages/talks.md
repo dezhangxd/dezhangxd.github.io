@@ -10,7 +10,6 @@
 ChinaSoft 2025,
 [🎞️Slides](https://drive.google.com/file/d/1GtHEi7hxW6RGDv0VaD9XFs5fQeKlIoyR/view?usp=sharing)
 
-
 - *2025.11*,
 "EDA形式化验证的并行算法",
 ChinaSoft 2025,
@@ -18,7 +17,7 @@ ChinaSoft 2025,
 
 - *2025.08*
 “CCF形式化方法专委会青年学术论坛--形式化方法在基础软件中的应用”.
-[Video](https://www.bilibili.com/video/BV19NePzNEus/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e93f104ca1a8e42a90cbd9fb62710602)
+[🎥Video](https://www.bilibili.com/video/BV19NePzNEus/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e93f104ca1a8e42a90cbd9fb62710602)
 
 - *2025.05*,
 "Advances on SAT and Equivalence Checking",
