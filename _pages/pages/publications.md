@@ -1,7 +1,7 @@
 
 <h1 id="-publications" data-lang-en="📝 Publications" data-lang-zh="📝 发表论文">📝 Publications</h1> 
 
-‡ <span data-lang-en="Sorted by the Last Name" data-lang-zh="按姓氏排序">Sorted by the Last Name</span>; † <span data-lang-en="Co-First Author" data-lang-zh="共同第一作者">Co-First Author</span>; \* <span data-lang-en="Corresponding Author" data-lang-zh="通讯作者">Corresponding Author</span>; 
+† <span data-lang-en="Co-First Author" data-lang-zh="共同第一作者">Co-First Author</span>; \* <span data-lang-en="Corresponding Author" data-lang-zh="通讯作者">Corresponding Author</span>; 
 
 <h2 data-lang-en="Conference Papers" data-lang-zh="会议论文">Conference Papers</h2>
 
@@ -87,7 +87,7 @@ Shaowei Cai, Chuan Luo, **Xindi Zhang** and Jian Zhang.
 
 - [C5] `CAV 2022`
 [Local Search For SMT on Linear Integer Arithmetic](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_12).\
-‡Shaowei Cai\*, Bohan Li, **Xindi Zhang**.
+†Shaowei Cai\*, Bohan Li, **Xindi Zhang**.
 2022.08, (pp. 227-248)\
 [💾z3++](https://github.com/shaowei-cai-group/z3pp)
 
@@ -140,7 +140,7 @@ Zhiteng Chao, **Xindi Zhang**, Junying Huang, Zizhen Liu, Yixuan Zhao, Jing Ye, 
 
 - [J3] `ToCL`
 [Local Search For Satisfiability Modulo Integer Arithmetic Theories](https://dl.acm.org/doi/full/10.1145/3597495).\
-‡Shaowei Cai\*, Bohan Li, **Xindi Zhang**.
+†Shaowei Cai\*, Bohan Li, **Xindi Zhang**.
 2023.07 (Vol 24(4): No.32, pp. 1-26)\
 [💾z3++](https://github.com/shaowei-cai-group/z3pp)
 
