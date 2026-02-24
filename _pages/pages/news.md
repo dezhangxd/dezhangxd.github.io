@@ -1,5 +1,8 @@
 <h1 id="-news" data-lang-en="🔥 News" data-lang-zh="🔥 新闻动态">🔥 News</h1>
 
+- <em>2026.02</em>: &nbsp;🎉🎉 <span class="lang-content lang-content-en">2 papers have been accepted by DAC (CCF-A) and FM（CCF-A）</span>
+  <span class="lang-content lang-content-zh" style="display: none;"> 2篇论文分别被DAC (CCF-A)与FM（CCF-A） 接收</span>
+
 - <em>2025.08</em>: &nbsp;🎉🎉 <span class="lang-content lang-content-en">Fahiem Bacchus PhD Thesis Award, SAT Association (only one awarded globally each year, first recipient from Asia)</span>
   <span class="lang-content lang-content-zh" style="display: none;">国际SAT协会最佳博士论文奖（每年全球一篇，亚洲首个）</span>
 
