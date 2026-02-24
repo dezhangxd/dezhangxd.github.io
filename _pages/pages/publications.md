@@ -26,13 +26,24 @@ Shaowei Cai†\*, **Xindi Zhang**†  2021.07, pp 64–81
 </div>
 </div>
 
+- [C17] `DAC 2026`
+PRS: An Efficient Parallel SAT Framework. \
+Zhihan Chen, **Xindi Zhang**, Yuhang Qian, Congyi Zhang and Shaowei Cai\*.  \
+[💾PRS](https://github.com/PRS-25/PRS)
+
+- [C16] `FM 2026`
+FastLEC: Parallel Datapath Equivalence Checking with Hybrid Engines. \
+**Xindi Zhang**, Furong Ye, Zhihan Chen and Shaowei Cai\*. \
+[💾FastLEC](https://github.com/dezhangxd/fastLEC)
+
 - [C15] `ASE 2025`
-SMTgazer: Learning to Schedule SMT Algorithms via Bayesian Optimization \
-Chuan Luo, Shaoke Cui, Jianping Song, **Xindi Zhang**\*, Wei Wu, Chanjuan Liu, Shaowei Cai, Chunming Hu.
+[SMTgazer: Learning to Schedule SMT Algorithms via Bayesian Optimization.](https://ieeexplore.ieee.org/abstract/document/11334368) \
+Chuan Luo, Shaoke Cui, Jianping Song, **Xindi Zhang**\*, Wei Wu, Chanjuan Liu, Shaowei Cai, Chunming Hu. \
+[💾SMTGazer](https://github.com/Bazoka13/SMTgazer)
 
 - [C14] `CP 2025`
 [DynamicSAT: Dynamic Configuration Tuning for SAT Solving.](https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.34/LIPIcs.CP.2025.34.pdf) \
-Zhengyuan Shi, Wentao Jiang, **Xindi Zhang**\*, Jin Luo, Yun Liang, Zhufei Chu, Qiang Xu\*. 
+Zhengyuan Shi, Wentao Jiang, **Xindi Zhang**\*, Jin Luo, Yun Liang, Zhufei Chu, Qiang Xu\*. \
 [💾DynamicSAT](https://github.com/cure-lab/DynamicSAT)
 
 - [C13] `DAC 2025`
