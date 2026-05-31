@@ -26,7 +26,7 @@ const CONFERENCE_PAPERS = [
   },
   {
     id: 'C16',
-    featured: false,
+    featured: true,
     image: 'images/fm26-fastlec.png',
     title: 'FastLEC: Parallel Datapath Equivalence Checking with Hybrid Engines',
     authors: '<strong>Xindi Zhang</strong>, Furong Ye, Zhihan Chen, Shaowei Cai*',
