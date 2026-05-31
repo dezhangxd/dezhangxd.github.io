@@ -33,6 +33,7 @@ const CONFERENCE_PAPERS = [
     venue: 'FM 2026', venueFull: 'International Symposium on Formal Methods',
     year: 2026, ccf: 'A',
     links: [
+      { label: 'Paper', url: 'https://link.springer.com/chapter/10.1007/978-3-032-26204-2_5', type: 'paper' },
       { label: 'FastLEC', url: 'https://github.com/dezhangxd/fastLEC', type: 'code' }
     ]
   },
