@@ -351,9 +351,9 @@ const THESIS_PAPERS = [
     authorsZh: '<strong>张昕荻</strong>',
     venue: 'ISCAS', venueFull: 'Institute of Software, Chinese Academy of Sciences',
     year: 2024,
-    note: 'PhD Thesis',
+    note: { en: 'Fahiem Bacchus PhD Thesis Award', zh: '国际SAT协会最佳博士学会论文奖' },
     links: [
-      { label: 'Thesis', url: 'https://drive.google.com/file/d/19msSCIx4wbdhs9ZjlN9l0SwS8bN78hLB/view?usp=sharing', type: 'paper' },
+      { label: 'PhD Thesis', url: 'https://drive.google.com/file/d/19msSCIx4wbdhs9ZjlN9l0SwS8bN78hLB/view?usp=sharing', type: 'paper' },
       { label: 'Slides', url: 'https://drive.google.com/file/d/1Rrxm9ceeS3v-gNCXbOc3ylLzGfqTs_Xy/view?usp=drive_link', type: 'slides' }
     ]
   }
