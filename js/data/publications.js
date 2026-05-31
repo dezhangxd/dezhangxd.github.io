@@ -260,7 +260,7 @@ const JOURNAL_PAPERS = [
     venue: 'JOS', venueFull: '软件学报',
     year: 2026, ccf: 'A',
     links: [
-      { label: 'Paper', url: 'https://jos.org.cn/jos/article/abstract/7509', type: 'paper' }
+      { label: 'Paper', url: 'https://jos.org.cn/jos/article/abstract/7509', type: 'paper' },
       { label: 'Code', url: 'https://github.com/shaowei-cai-group/cold-restart', type: 'code' }
     ]
   },
